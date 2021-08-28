@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Sunamganj';
+  src: url('Sunamganj.eot');
+  src: url('Sunamganj.woff') format('woff'),
+       url('Sunamganj.ttf') format('truetype'),
+       url('Sunamganj.svg') format('svg'),
+       url('SolaimanLipi.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
